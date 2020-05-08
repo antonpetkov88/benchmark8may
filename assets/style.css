@@ -1,0 +1,26 @@
+#logo {
+    height: 35px;
+    width: 35px;
+    background-color: white;
+    overflow: hidden;
+    
+    }
+
+  nav {
+    background-color: transparent;
+  }
+  .navbar {
+    z-index: 9999999999999999;
+    width: 101%;
+    background-color: #221f1f;
+    
+  }
+
+.icons {
+    color: #f5f5f1;
+  }
+
+header {
+    font-weight: 600;
+    line-height: 16px;
+}
