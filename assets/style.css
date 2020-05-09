@@ -24,3 +24,8 @@ header {
     font-weight: 600;
     line-height: 16px;
 }
+
+.card {
+    width: 226px;
+    height: 187px;
+}
